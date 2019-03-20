@@ -1,0 +1,5 @@
+Message.create(text: "test")
+Message.create(text: "test2")
+Message.create(text: "test3")
+Message.create(text: "test4")
+Message.create(text: "test5")
